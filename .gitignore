@@ -162,3 +162,21 @@ cython_debug/
 #.idea/
 uv.lock
 .langgraph_api/
+
+# Frontend
+node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+
+# Database
+*.db
+voicedform.db
+
+# Uploads
+uploads/
+backend/uploads/
+
+# IDE
+.vscode/
+.idea/
